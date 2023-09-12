@@ -1,9 +1,11 @@
 # EDA-of-Data-Science-Jobs-on-Glassdoor
 
-##Introduction
+##Introduction  
+
 Today, we find ourselves at a critical juncture where data has assumed paramount importance and relevance. Consequently, a growing number of individuals are making the transition into the field of data science, recognizing the substantial demand for data experts across various industries. However, despite the clear need for more data professionals, the competition remains fierce, and many individuals are encountering difficulties in securing employment.
 
-##Project Aim
+##Project Aim  
+
 The aim of this project is to perform an in-depth exploratory data analysis on data science job postings found on Glassdoor in the United States of America. The primary goal is to offer valuable insights that can prove beneficial to job seekers. By delving into the specific skill sets and qualifications necessary to secure a role as a data expert, identifying sectors that have a higher demand for data experts, pinpointing cities with high hiring rates, and understanding the salary ranges within different sectors and ownership types, this project strives to assist job seekers in their pursuit of employment.
 
 ##Data Source and Description
